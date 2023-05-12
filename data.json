@@ -1,0 +1,6 @@
+{"request": "/login", "verb": "GET", "host": "provakil.com", "request_id":
+"1cdda501b2dc6043491df3181b0f3e08", "port": 8099, "event":
+"complete-request", "time": 0.009173137, "response": 200, "start_time":
+"Thu Oct 14 2021 13:14:05 GMT+0530 (India Standard Time)", "level": "info",
+"message": "", "timestamp": "Thu Oct 14 2021 13:14:05 GMT+0530 (IndiaStandard Time)","event1": "hiring", "destination": "Provakil", "skills": "Python",
+"contact": "911123382590"}
